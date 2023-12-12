@@ -1,7 +1,7 @@
 # Data In The Wild Project - Powerpuff Girls
-- Ioana-Daria Vasile
-- Kristiana Stefa
-- Stela Arranz-Gheorghe
+- Ioana-Daria Vasile - iova@itu.dk
+- Kristiana Stefa - krste@itu.dk
+- Stela Arranz-Gheorghe - star@itu.dk
 
 # Project Overview
 In this project, we embark on a comprehensive data collection initiative from three distinct online shops, each operating in a different region. The primary objective of this project is to gather data systematically from these shops to conduct an in-depth analysis of inclusivity within their offerings.
